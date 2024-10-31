@@ -1,5 +1,5 @@
-### Hi there 👋
+### Olá rede 👋
 
-- 🔭 I’m currently working on Trainee Dev
-- 🌱 I’m currently learning <a href="https://github.com/itinhodev"></a> Html, CSS and JavaScript
-- 📫 How to reach me: itinhodev@gmail.com
+- 🔭 Estou em busca de um estágio onde possa aprender e aplicar meus conhecimentos!!!
+- 🌱 Atualmente estou estudando <a href="https://github.com/itinhodev"></a> JAVA
+- 📫 Meu email: itinhodev@gmail.com
