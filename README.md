@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Dev Front End<br>- 25y</p>
+<p align="left">- Dev Front End 🖥️<br>- 25y</p>
 
 ###
 
