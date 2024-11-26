@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
